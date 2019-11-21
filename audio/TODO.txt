@@ -1,0 +1,47 @@
+- start > begin quiz
+- session continue on restart.
+save shuffled quistions + currentquistionindex
+    
+    //save quiz config
+function setQuizCookie() {
+  setCookie('currentQuestion', currentQuestionIndex, 1)
+  setCookie('list', JSON.stringify(shuffledQuestions), 1)
+}
+
+//reset the quiz config
+function resetQuizCookie() {
+  setCookie('currentQuestion', '', 1)
+  setCookie('list', '', 1)
+}
+    onload session()
+    --DONE
+
+
+- try again, if wrong skip 
+if (!correct) {
+    startButton.innerText = 'Try Again'
+    startButton.classList.remove('hide')
+    startButton.addEventListener('click', function () {
+      startButton.classList.add('hide')
+      setNextQuestion()
+    })
+  } else {
+    if (shuffledQuestions.length > currentQuestionIndex + 1) {
+      nextButton.classList.remove('hide')
+    } else {
+      resetQuizCookie()
+      startButton.innerText = 'Restart'
+      startButton.classList.remove('hide')
+    }
+  }
+DONE
+    
+    
+- sounds ( background, buzzer)
+
+
+
+- images blokjes letters antw;
+
+- progressbar 
+- sssss

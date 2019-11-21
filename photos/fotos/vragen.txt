@@ -1,0 +1,159 @@
+1. welk fruit begint met de letter A? (appel)
+a.appel
+b.banaan
+c.druiven
+d.watermeloen
+
+
+2. welk fruit begint met de letter B( banaan
+a.appel
+b.banaan
+c.druiven
+d.watermeloen
+
+
+3. welk fruit begint met de letter D? (druiven)
+a.appel
+b.banaan
+c.druiven
+d.watermeloen
+
+4. welk fruit begint met de letter W? (watermeloen)
+a.appel
+b.banaan
+c.druiven
+d.watermeloen
+
+5. welk speelgoed begint met de letter A? (auto)
+a.autootje
+b.telefoon
+c.beer
+d.fiets
+
+6.welk dier begint met de letter K(kikker)
+a.kikker
+b.poes
+c.rat
+d.vis
+
+7. welk dier begint met de letter S (slang)
+a.slang
+b.poes
+c.rat
+d.vis
+
+8. welk dier begint met de letter I (inktvis)
+a.inktvis
+b.poes
+c.rat
+d.vis
+
+9. welk speelgoed begint met de letter B (beer
+a.fiets
+b.beer
+c.telefoon
+d.autootje
+
+10. welk dier begint met de letter E (ezel
+a.ezel
+b.poes
+c.rat
+d.vis
+
+11.welk plaatje begint met de letter J(jongen
+a.jongen
+b.huis
+c.stoel
+d.tafel
+
+12.welk dier begint met de letter P (poes
+a.kikker
+b.poes
+c.rat
+d.vis
+
+13.welk dier begint met de letter R (rat
+a.kikker
+b.poes
+c.rat
+d.vis
+
+14.welk foto begint met de letter S (stoel
+a.jongen
+b.huis
+c.stoel
+d.tafel
+
+15.welk foto begint met de letter H (huis
+a.jongen
+b.huis
+c.stoel
+d.tafel.
+
+16.welk foto begint met de letter M(meisje
+a.meisje
+b.huis
+c.stoel
+d.tafel
+
+
+17.welke foto begint met de letter T (tafel
+a.jongen
+b.huis
+c.stoel
+d.tafel
+
+18. welk dier begint met de letter G (giraf
+a.giraf
+b.poes
+c.rat
+d.vis
+
+19.welk dier begint met de letter v(vogel
+a.kikker
+b.poes
+c.rat
+d.vogel
+
+20.welk plaatje begint met de letter S(schoen
+a.jongen
+b.huis
+c.schoen
+d.tafel
+
+21.welk plaatje begint met de letter R(rok
+a.jongen
+b.huis
+c.stoel
+d.rok
+
+22.welk plaatje begint met de letter B(boom
+a.boom
+b.huis
+c.stoel
+d.tafel.
+
+23.welk dier begint met de letter H(hond
+a.kikker
+b.hond
+c.rat
+d.vogel
+
+24.welk speelgoed begint met de letter T(telefoon
+a.autootje
+b.telefoon
+c.beer
+d.fiets
+
+25.welk dier begint met de letter v(vis
+a.kikker
+b.hond
+c.rat
+d.vis
+
+
+26.welk plaatje begint met de letter B(broek
+a.autootje
+b.telefoon
+c.broek
+d.fiets

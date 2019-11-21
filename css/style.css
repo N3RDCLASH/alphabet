@@ -19,7 +19,7 @@ row2{
 }
 }
 .parallax {
-  background-image: url("./content/par1.jpg");
+  background-image: url(".../content/par1.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -42,7 +42,7 @@ row2{
 }
 
 body {
-  background-image: url("./photos/19871.png");
+  background-image: url("../photos/19871.png");
   font-weight: normal;
   font-style: normal;
   margin: 0;
@@ -68,13 +68,13 @@ p {
 }
 
 .image {
-  background: url('./content/par.jpg') no-repeat fixed;
+  background: url('../content/par.jpg') no-repeat fixed;
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  min-height: 800px;
+  min-height: 500px;
 }
 
 .content {
@@ -215,8 +215,12 @@ p {
 }
 
 .lettersaz {
-  padding-left: 80px;
+  /* padding-left: 80px; */
   padding-top: 140px;
+  width:83%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 canvas {
