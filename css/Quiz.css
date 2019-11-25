@@ -10,7 +10,6 @@
 }
 
 body {
-    
   --hue: var(--hue-neutral);
   padding: 0;
   margin: 0;
@@ -24,26 +23,31 @@ body {
 }
 
 body.correct {
-  --hue: var(--hue-correct);
+  /* --hue: var(--hue-correct); */
 }
 
 body.wrong {
-  --hue: var(--hue-wrong);
+  /* --hue: var(--hue-wrong); */
+}
+
+canvas {
+  background-image: URL('../photos/Colorful Galaxy by Slidesgo.jpg');
+  background-size: cover;
 }
 
 .container {
-  width: 430px;
-max-width: 80%;
-background-color: white;
-border-radius: 5px;
-padding: 10px;
-opacity: 65%;
-background:
-black;
-box-shadow: 0 0 70px 1px;
-margin: 0 auto;
-    margin-top: 0px;
-margin-top: 3%;
+  width: 30%;
+  max-width: 80%;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px 2%;
+  /*! opacity: 65%; */
+  background: white;
+  box-shadow: 0 0 70px 1px;
+  margin: 0 auto;
+  margin-top: 0px;
+  margin-top: 2%;
+  /*! padding-left: 20px; */
 }
 
 .btn-grid {
@@ -57,6 +61,8 @@ margin-top: 3%;
   --hue: var(--hue-neutral);
   border: 1px solid hsl(var(--hue), 100%, 30%);
   background-color: #e4ecc5;
+  background-size: cover;
+  background-position: center;
   border-radius: 5px;
   padding: 5px 10px;
   color: white;
@@ -68,12 +74,12 @@ margin-top: 3%;
 }
 
 .btn.correct {
-  --hue: var(--hue-correct);
-  color: black;
+  /* --hue: var(--hue-correct); */
+  /* color: black; */
 }
 
 .btn.wrong {
-  background: #CC2E2E;
+  /* background: #CC2E2E; */
 }
 
 .start-btn, .next-btn {
@@ -91,12 +97,14 @@ margin-top: 3%;
 .hide {
   display: none;
 }
-.img{
-  width: 150px;
+
+.img {
+  height: 130px;
+  background-size: cover;
 }
-.Qimg{
-margin: 0 auto;
-display: block;
-width: 220px;
-z-index: -9999999;
+
+.Qimg {
+  margin: 0 auto;
+  display: block;
+  width: 220px;
 }
